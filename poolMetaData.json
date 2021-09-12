@@ -1,7 +1,6 @@
 {
-  "name": "First Alonzo Purple Testnet Pool",
+  "name": "BUDZ Rule Cardano",
   "description": "Just Another Testnet Pool",
-  "ticker": "FAPTP",
-  "homepage": "https://CardanoBudz.io",
-  "extended": "https://bit.ly/3j34Efm"
+  "ticker": "BUDZ2",
+  "homepage": "https://CardanoBudz.io"
 }
